@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinuiStopWatch (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinuiStopWatch (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
